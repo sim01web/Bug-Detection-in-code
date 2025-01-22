@@ -4,7 +4,7 @@
 This project utilizes a Convolutional Neural Network (CNN) to build a model capable of detecting the type of bug present in a given code snippet.
 
 ## Dataset
-The dataset used for this project is sourced from Microsoft's [InferredBugs Repository](https://github.com/microsoft/InferredBugs/blob/main/README.md). It contains detailed information about various types of bugs in JSON format.
+The dataset used for this project is sourced from [InferredBugs Repository](https://github.com/microsoft/InferredBugs/blob/main/README.md). It contains detailed information about various types of bugs in JSON format.
 
 ### Dataset Description
 - **bug.json**: Acts as a dictionary with fields such as:
@@ -36,6 +36,6 @@ A Convolutional Neural Network (CNN) was implemented to classify the type of bug
 - Focus on three critical bug categories that are common in software development.
 
 ## References
-- [Microsoft InferredBugs Repository](https://github.com/microsoft/InferredBugs)
+- [InferredBugs Repository](https://github.com/microsoft/InferredBugs)
 
 
